@@ -1,7 +1,7 @@
 # machine-learning-project
  
 
-Micro Credit Defaulter model. 
+Customer Churn Analysis
 
 
 
